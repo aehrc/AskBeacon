@@ -1,0 +1,37 @@
+{
+  "table_names": ["data"],
+  "table_metadata": [
+    [
+      [
+        "id",
+        "diseases",
+        "ethnicity",
+        "exposures",
+        "geographicOrigin",
+        "info",
+        "interventionsOrProcedures",
+        "karyotypicSex",
+        "measures",
+        "pedigrees",
+        "phenotypicFeatures",
+        "sex",
+        "treatments"
+      ],
+      [
+        "int",
+        "list",
+        "dict",
+        "str",
+        "dict",
+        "str",
+        "list",
+        "str",
+        "str",
+        "str",
+        "str",
+        "dict",
+        "str"
+      ]
+    ]
+  ]
+}
