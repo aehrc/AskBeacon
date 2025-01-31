@@ -1,5 +1,23 @@
 # AskBeacon Code Base
 
+> 🛑 AskBeacon is meant to operate in conjunction with sBeacon. There are detailed instructions on how to set up sBeacon with terraform templates in this rep [https://github.com/aehrc/terraform-aws-serverless-beacon](https://github.com/aehrc/terraform-aws-serverless-beacon). To ensure the connection between sBeacon and askBeacon is robust and secure please get in touch via [http://bioinformatics.csiro.au](http://bioinformatics.csiro.au) to obtain tailored (i.e. security sensitive) instructions. In the meantime we encourage people to get familiar with the system through the set up demo [here](https://d147alp44qcbqe.cloudfront.net/home). 🛑
+
+## Demo Instance
+
+We have hosted a demo instance to allow potential researchers to perform basic evaluation of the system. The demo instance uses `1000 Genomes Phase 3` data. You can access the demo instance using the following link.
+
+<a href="https://d147alp44qcbqe.cloudfront.net/home">AskBeacon Web Interface</a>
+
+<p align="center">
+  <img src="image.png" alt="sbacon" width="600">
+</p>
+
+Please use the following credentials
+* username: demo@example.com
+* password: demo1234
+
+## AskBeacon Core Logic
+
 AskBeacon core logic is presented in this repository. This repository contains the following jupyter notebooks and their functionality is as follows.
 
 ## 1 - Extract Information
