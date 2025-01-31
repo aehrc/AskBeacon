@@ -11,10 +11,11 @@ We have hosted a demo instance to allow potential researchers to perform basic e
 > Get me all the individuals having a variant in first chromosome between 11856377 to 11856379 under assembly id "GRCH37"
 
 <a href="https://d147alp44qcbqe.cloudfront.net/home">Launch the demo</a>
-<p>Please use the following credentials
-* username: demo@example.com
-* password: demo1234
-</p>
+
+Please use the following credentials
+* username: demo@example.com <br>
+* password: demo1234<br>
+
 <p>AskBeacon Web Interface</p>
 <p align="center">
   <img src="image-home.png" alt="sbacon" width="600">
