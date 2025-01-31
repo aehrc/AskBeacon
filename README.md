@@ -6,6 +6,10 @@
 
 We have hosted a demo instance to allow potential researchers to perform basic evaluation of the system. The demo instance uses `1000 Genomes Phase 3` data. You can access the demo instance using the following link.
 
+🛑 Variant queries of 1000 genomes phase 3 data is associated with `GRCH37`. Hence queries must be of the following form; 
+
+> Get me all the individuals having a variant in first chromosome between 11856377 to 11856379 under assembly id "GRCH37"
+
 <a href="https://d147alp44qcbqe.cloudfront.net/home">AskBeacon Web Interface</a>
 
 <p align="center">
