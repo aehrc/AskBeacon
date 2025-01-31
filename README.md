@@ -13,12 +13,18 @@ We have hosted a demo instance to allow potential researchers to perform basic e
 <a href="https://d147alp44qcbqe.cloudfront.net/home">AskBeacon Web Interface</a>
 
 <p align="center">
-  <img src="image.png" alt="sbacon" width="600">
+  <img src="image-home.png" alt="sbacon" width="600">
 </p>
 
 Please use the following credentials
 * username: demo@example.com
 * password: demo1234
+
+AskBeacon is accessible from `Analytics` tab followed by `AskBeacon analysis` selection as follows.
+
+<p align="center">
+  <img src="image-askbeacon.png" alt="sbacon" width="600">
+</p>
 
 ## AskBeacon Core Logic
 
