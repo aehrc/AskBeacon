@@ -16,6 +16,8 @@ Please use the following credentials
 * username: demo@example.com <br>
 * password: demo1234<br>
 
+<p>Please note that this AskBeacon instance demonstrates <b>examples 2 and 3 from the paper</b>. Interactive access to the complete dataset is available only from the original data custodians, so this demo is meant solely to showcase AskBeacon's functionality rather than to support research.</p>
+
 <p>AskBeacon Web Interface</p>
 <p align="center">
   <img src="image-home.png" alt="sbacon" width="600">
