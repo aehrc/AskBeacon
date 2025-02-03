@@ -26,7 +26,13 @@ Please use the following credentials
 AskBeacon is accessible from `Analytics` tab followed by `AskBeacon analysis` selection as follows.
 
 <p align="center">
-  <img src="image-askbeacon.png" alt="sbacon" width="600">
+  <img src="image-AskBeacon-Analytics.png" alt="sbacon" width="600">
+</p>
+
+AskBeacon can also be acessed through the `Query` tab followed by clicking the chat icon. This capability is for automatically populating the sBeacon UI to interact with the canned sBeacon visualization options. 
+
+<p align="center">
+  <img src="image-AskBeacon-Query.png" alt="sbacon" width="600">
 </p>
 
 ## AskBeacon Core Logic
