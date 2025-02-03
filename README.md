@@ -16,7 +16,7 @@ Please use the following credentials
 * username: demo@example.com <br>
 * password: demo1234<br>
 
-<p>Please note that this AskBeacon instance demonstrates <b>examples 2 and 3 from the paper</b>. Interactive access to the complete dataset is available only from the original data custodians, so this demo is meant solely to showcase AskBeacon's functionality rather than to support research.</p>
+<p>Please note that this AskBeacon instance demonstrates <b>examples 2 and 3 from the paper</b> (i.e. subsets of the 1000 Genome Project). Interactive access to any complete datasets, such as Parkinson's Progression Markers Initiative (example 1) can only be make available by the original data custodians, so this demo is meant solely to showcase AskBeacon's functionality rather than to support research.</p>
 
 <p>AskBeacon Web Interface</p>
 <p align="center">
